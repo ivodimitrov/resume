@@ -1,0 +1,184 @@
+#
+# Be aware that even a small syntax error here can lead to failures in output.
+#
+
+sidebar:
+  #  about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
+  education: True # set to False if you want education in main section instead of in sidebar
+
+  # Profile information
+  name: Ivo Dimitrov
+  tagline: QA Automation Engineer
+  avatar: profielPictureIvoDimitrov.jpg  #place a picture inside /assets/images/ folder and provide the name of the file below
+
+  # Sidebar links
+  email: ivopdimitrov@gmail.com
+  phone: +359 885 74 77 79
+  website: ivodimitrov.github.io/online-cv #do not add http://
+  linkedin: ivopdimitrov
+  github: ivodimitrov
+  #    gitlab:
+  #    bitbucket:
+  twitter: 'ivopdimitrov'
+  #    stack-overflow: # Number/Username, e.g. 123456/alandoe
+  #    codewars:
+  #    goodreads: # Number-Username, e.g. 123456-alandoe
+
+  languages:
+    - idiom: English
+      level: Professional
+
+    - idiom: German
+      level: Elementary
+
+  interests:
+    - item: Conditional Training
+      link:
+
+    - item: Cycling
+      link:
+
+career-profile:
+  title: Career Profile
+  summary: |
+    I really enjoy picking software apart and seeing where I can find flaws and I am passionate about improving
+    quality and shipping high-reliability products. I have worked with a range of different programming languages
+    and automation frameworks and I am always looking for opportunities to work with something new. The things that
+    I currently have the most experience working with are Java, Selenium WebDriver, Appium, JUnit, TestNG,
+    Cucumber-JVM (BDD), Gherkin, Git and Jenkins.
+
+education:
+  - degree: QA Automation Engineer Automated Testing on Mobile Applications
+    university: Pragmatic IT Learning Academy
+    time: March 2018 – May 2018
+  #      details: |
+  #        Describe your study here lorem ipsum dolor sit amet, consectetuer
+  #                adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
+  #                sociis natoque penatibus et magnis dis parturient montes, nascetur
+  #                ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
+  #                pretium quis, sem.
+  #
+  #          - Bullet point
+  #          - Bullet point
+
+  - degree: QA Automation Engineer Automated Testing on Web Applications
+    university: SoftServe Academy
+    time: January 2017 – May 2017
+
+  - degree: QA Automation Engineer QA Complete Course
+    university: Pragmatic IT Learning Academy
+    time: March 2016 – October 2016
+
+  - degree: MSc in Marketing
+    university: University of National and World Economy
+    time: September 2006 – July 2008
+
+  - degree: BSc in Automotive Engineering
+    university: Technical University Sofia
+    time: September 2001 – July 2005
+
+experiences:
+  - role: QA Automation Engineer Web & Mobile Applications
+    time: August 2018 - Present
+    company: Tide
+    details: |
+      Collaborate with the development team and be responsible for building, testing, deploying and executing
+      comprehensive solutions to ensure consistent delivery of high-quality software releases.
+
+        - Design, develop and implement both manual and automated robust tests for the newly developed features
+        increasing test coverage and shorten the software development life cycle using Java, Selenium, Appium,
+        JUnit & Cucumber
+        - Optimise, investigate, debug, review and update the available integration, functional and regression manual
+        and automated test suites
+        - Analyse the results and logs of regular automated tests executions to ensure continuous improvement in
+        quality and efficiency
+        - Track and report using Jira the life cycle of identified bugs, reproduce failures and investigate their
+        root causes. Verify bug fixes
+        - Provide comprehensive test reports
+
+  - role: Software Quality Assurance Engineer
+    time: February 2017 - August 2018
+    company: ActivTrades
+    details: |
+      Conducting tests before product launches to ensure software
+      runs smoothly and meets client needs, while being cost-effective. Enjoy providing end-to-end solutions to
+      software quality problems.
+
+        - Participate in the whole agile process of product development
+        - Estimating, prioritising, planning and coordinating quality testing activities
+        - Define test plans, create and execute test cases
+        - Test the latest version of Web and Mobile applications thoroughly, finding bugs and errors that will
+        impact the customer experience
+        - Ensure new features and/or enhancements are correct as per the technical specifications
+        - Produce, run and analyse functional, regression tests
+        - Create issue reports for the engineers to review and fix, providing extensive explanation for how to
+        recreate bugs and where errors can be found
+        - Track bug fixes to determine if they are valid and complete. Following up on each case
+        - Collaborate closely with Developers and Business Owners to ensure complete test coverage
+        - Prepare and communicate test status and progress reports
+
+  - role: Sales Manager
+    time: June 2008 - February 2017
+    company: DormaKaba
+#      details: |
+#        Describe your role here lorem ipsum dolor sit amet, consectetuer
+#        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+#        Cum sociis natoque penatibus et magnis dis parturient montes,
+#        nascetur ridiculus mus. Donec quam felis, ultricies nec,
+#        pellentesque eu, pretium quis, sem.
+#
+#          - Bullet point
+#          - Bullet point
+
+projects:
+  title: Projects
+  intro: >
+    Web & Mobile Test Automation Frameworks built from scratch
+
+  assignments:
+    - title: Web Test Automation Framework
+      link: "https://github.com/IvoDimitrov/tests-at-amazon"
+      tagline: "Java-based test automation framework built on top of the most popular solutions Selenium WebDriver,
+      JUnit, TestNG, Cucumber (BDD) and Maven."
+
+    - title: Mobile Test Automation Framework for native, hybrid and web apps for iOS and Android
+      link: "https://github.com/IvoDimitrov/mobile-testing"
+      tagline: " Java-based test automation framework that integrates with tools such as Appium, JUnit, TestNG,
+      Cucumber (BDD), Maven and Gradle."
+
+#publications:
+#  title: Publications
+#  intro: |
+#    You can list your publications in this section. Lorem ipsum dolor sit
+#    amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
+#    bibendum fringilla a eu lectus.
+#
+#  papers:
+#    - title: The Art of Computer Programming
+#      authors: Donald E. Knuth
+#      conference: Addison-Wesley, 1968
+
+skills:
+  title: Skills &amp; Proficiency
+
+  toolset:
+    - name: Java
+      level: 78%
+
+    - name: Selenium WebDriver
+      level: 85%
+
+    - name: Appium
+      level: 85%
+
+    - name: JUnit
+      level: 95%
+
+    - name: TestNG
+      level: 95%
+
+    - name: Cucumber-JVM
+      level: 95%
+
+footer: >
+  Designed with <i class="fas fa-heart"></i> by <a href="https://github.com/IvoDimitrov" target="_blank" rel="nofollow">Ivo Dimitrov</a>
