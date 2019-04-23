@@ -48,7 +48,8 @@ career-profile:
     Cucumber-JVM (BDD), Gherkin, Git and Jenkins.
 
 education:
-  - degree: QA Automation Engineer Automated Testing on Mobile Applications
+  - degree: QA Automation Engineer Automated Testing Mobile Applications
+    field: Automated Testing Mobile Applications
     link-degree: "https://pragmatic.bg/courses/mobile-apps-test-automation-course/"
     university: Pragmatic IT Learning Academy
     link-university: "https://pragmatic.bg/"
@@ -63,27 +64,31 @@ education:
   #          - Bullet point
   #          - Bullet point
 
-  - degree: QA Automation Engineer Automated Testing on Web Applications
+  - degree: QA Automation Engineer Automated Testing Web Applications
+    field: Automated Testing Web Applications
     link-degree: "https://career.softserveinc.com/en-us/technology/course/test_automation_with_java,_c_,_python__development"
     university: SoftServe IT Academy
     link-university: "https://career.softserveinc.com/en-us/technology"
     time: January 2017 – May 2017
 
   - degree: QA Automation Engineer QA Complete Course
+    field: QA Complete Course
     link-degree: "https://pragmatic.bg/courses/qa-complete-course/"
     university: Pragmatic IT Learning Academy
     link-university: "https://pragmatic.bg/"
     time: March 2016 – October 2016
 
-  - degree: MSc in Marketing
+  - degree: Master degree in Marketing
+    field: Marketing
     link-degree: "https://www.unwe.bg/en/structure/render/227"
     university: University of National and World Economy
     link-university: "https://www.unwe.bg/en/"
     time: September 2006 – July 2008
 
-  - degree: BSc in Automotive Engineering
+  - degree: Bachelor degree in Automotive Engineering
+    field: Automotive Engineering
     link-degree: "https://tu-sofia.bg/specialties/preview/776"
-    university: Technical University Sofia
+    university: Technical University
     link-university: "https://tu-sofia.bg/"
     time: September 2001 – July 2005
 
