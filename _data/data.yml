@@ -81,7 +81,7 @@ experiences:
   - role: QA Automation Engineer Web & Mobile
     time: August 2018 - Present
     company: Tide
-    link: "https://tide.co"
+    link: "https://www.tide.co/"
     details: |
       Collaborate with the development team and be responsible for building, testing, deploying and executing
       comprehensive solutions to ensure consistent delivery of high-quality software releases.
@@ -100,6 +100,7 @@ experiences:
   - role: Software Quality Assurance Engineer
     time: February 2017 - August 2018
     company: ActivTrades
+    link: "https://www.activtrades.com/en/"
     details: |
       Conducting tests before product launches to ensure software
       runs smoothly and meets client needs, while being cost-effective. Enjoy providing end-to-end solutions to
@@ -121,6 +122,7 @@ experiences:
   - role: Sales Manager
     time: June 2008 - February 2017
     company: DormaKaba
+    link: "https://www.dormakaba.com/en"
 #      details: |
 #        Describe your role here lorem ipsum dolor sit amet, consectetuer
 #        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
