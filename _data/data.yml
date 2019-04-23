@@ -49,7 +49,9 @@ career-profile:
 
 education:
   - degree: QA Automation Engineer Automated Testing on Mobile Applications
+    link-degree: "https://pragmatic.bg/courses/mobile-apps-test-automation-course/"
     university: Pragmatic IT Learning Academy
+    link: "https://pragmatic.bg/"
     time: March 2018 – May 2018
   #      details: |
   #        Describe your study here lorem ipsum dolor sit amet, consectetuer
@@ -62,25 +64,33 @@ education:
   #          - Bullet point
 
   - degree: QA Automation Engineer Automated Testing on Web Applications
-    university: SoftServe Academy
+    link-degree: "https://career.softserveinc.com/en-us/technology/course/test_automation_with_java,_c_,_python__development"
+    university: SoftServe IT Academy
+    link: "https://career.softserveinc.com/en-us/technology"
     time: January 2017 – May 2017
 
   - degree: QA Automation Engineer QA Complete Course
+    link-degree: "https://pragmatic.bg/courses/qa-complete-course/"
     university: Pragmatic IT Learning Academy
+    link: "https://pragmatic.bg/"
     time: March 2016 – October 2016
 
   - degree: MSc in Marketing
+    link-degree:
     university: University of National and World Economy
+    link:
     time: September 2006 – July 2008
 
   - degree: BSc in Automotive Engineering
+    link-degree:
     university: Technical University Sofia
+    link:
     time: September 2001 – July 2005
 
 experiences:
   - role: QA Automation Engineer Web & Mobile
     time: August 2018 - Present
-    company: Tide
+    company: Tide - Business Banking App
     link: "https://www.tide.co/"
     details: |
       Collaborate with the development team and be responsible for building, testing, deploying and executing
@@ -99,7 +109,7 @@ experiences:
 
   - role: Software Quality Assurance Engineer
     time: February 2017 - August 2018
-    company: ActivTrades
+    company: ActivTrades - Forex Trading Platform
     link: "https://www.activtrades.com/en/"
     details: |
       Conducting tests before product launches to ensure software
@@ -121,7 +131,7 @@ experiences:
 
   - role: Sales Manager
     time: June 2008 - February 2017
-    company: DormaKaba
+    company: DormaKaba - Access control systems
     link: "https://www.dormakaba.com/en"
 #      details: |
 #        Describe your role here lorem ipsum dolor sit amet, consectetuer
