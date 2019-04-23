@@ -51,7 +51,7 @@ education:
   - degree: QA Automation Engineer Automated Testing on Mobile Applications
     link-degree: "https://pragmatic.bg/courses/mobile-apps-test-automation-course/"
     university: Pragmatic IT Learning Academy
-    link: "https://pragmatic.bg/"
+    link-university: "https://pragmatic.bg/"
     time: March 2018 – May 2018
   #      details: |
   #        Describe your study here lorem ipsum dolor sit amet, consectetuer
@@ -66,25 +66,25 @@ education:
   - degree: QA Automation Engineer Automated Testing on Web Applications
     link-degree: "https://career.softserveinc.com/en-us/technology/course/test_automation_with_java,_c_,_python__development"
     university: SoftServe IT Academy
-    link: "https://career.softserveinc.com/en-us/technology"
+    link-university: "https://career.softserveinc.com/en-us/technology"
     time: January 2017 – May 2017
 
   - degree: QA Automation Engineer QA Complete Course
     link-degree: "https://pragmatic.bg/courses/qa-complete-course/"
     university: Pragmatic IT Learning Academy
-    link: "https://pragmatic.bg/"
+    link-university: "https://pragmatic.bg/"
     time: March 2016 – October 2016
 
   - degree: MSc in Marketing
-    link-degree:
+    link-degree: "https://www.unwe.bg/en/structure/render/227"
     university: University of National and World Economy
-    link:
+    link-university: "https://www.unwe.bg/en/"
     time: September 2006 – July 2008
 
   - degree: BSc in Automotive Engineering
-    link-degree:
+    link-degree: "https://tu-sofia.bg/specialties/preview/776"
     university: Technical University Sofia
-    link:
+    link-university: "https://tu-sofia.bg/"
     time: September 2001 – July 2005
 
 experiences:
