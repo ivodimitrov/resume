@@ -101,9 +101,10 @@ experiences:
       Collaborate with the development team and be responsible for building, testing, deploying and executing
       comprehensive solutions to ensure consistent delivery of high-quality software releases.
 
+        - Ensure bug-free software, seamless usability and smooth user experience
+        - Working closely with software developers and make sure all product requirements are met and bugs fixed
         - Design, develop and implement both manual and automated robust tests for the newly developed features
-        increasing test coverage and shorten the software development life cycle using Java, Selenium, Appium,
-        JUnit & Cucumber
+        increasing test coverage and shorten the software development life cycle
         - Optimise, investigate, debug, review and update the available integration, functional and regression manual
         and automated test suites
         - Analyse the results and logs of regular automated tests executions to ensure continuous improvement in
@@ -117,9 +118,8 @@ experiences:
     company: ActivTrades - Forex Trading Platform
     link: "https://www.activtrades.com/en/"
     details: |
-      Conducting tests before product launches to ensure software
-      runs smoothly and meets client needs, while being cost-effective. Enjoy providing end-to-end solutions to
-      software quality problems.
+      Conducting tests before product launches to ensure software runs smoothly and meets company needs,
+      while being cost-effective. Enjoy providing end-to-end solutions to software quality problems.
 
         - Participate in the whole agile process of product development
         - Estimating, prioritising, planning and coordinating quality testing activities
