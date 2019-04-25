@@ -48,8 +48,11 @@ career-profile:
     Cucumber-JVM (BDD), Gherkin, Git and Jenkins.
 
 education:
-  - degree: QA Automation Engineer Automated Testing on Mobile Applications
+  - degree: QA Automation Engineer Automated Testing Mobile Applications
+    field: Automated Testing Mobile Applications
+    link-degree: "https://pragmatic.bg/courses/mobile-apps-test-automation-course/"
     university: Pragmatic IT Learning Academy
+    link-university: "https://pragmatic.bg/"
     time: March 2018 – May 2018
   #      details: |
   #        Describe your study here lorem ipsum dolor sit amet, consectetuer
@@ -61,33 +64,47 @@ education:
   #          - Bullet point
   #          - Bullet point
 
-  - degree: QA Automation Engineer Automated Testing on Web Applications
-    university: SoftServe Academy
+  - degree: QA Automation Engineer Automated Testing Web Applications
+    field: Automated Testing Web Applications
+    link-degree: "https://career.softserveinc.com/en-us/technology/course/test_automation_with_java,_c_,_python__development"
+    university: SoftServe IT Academy
+    link-university: "https://career.softserveinc.com/en-us/technology"
     time: January 2017 – May 2017
 
   - degree: QA Automation Engineer QA Complete Course
+    field: QA Complete Course
+    link-degree: "https://pragmatic.bg/courses/qa-complete-course/"
     university: Pragmatic IT Learning Academy
+    link-university: "https://pragmatic.bg/"
     time: March 2016 – October 2016
 
-  - degree: MSc in Marketing
+  - degree: Master degree in Marketing
+    field: Marketing
+    link-degree: "https://www.unwe.bg/en/structure/render/227"
     university: University of National and World Economy
+    link-university: "https://www.unwe.bg/en/"
     time: September 2006 – July 2008
 
-  - degree: BSc in Automotive Engineering
-    university: Technical University Sofia
+  - degree: Bachelor degree in Automotive Engineering
+    field: Automotive Engineering
+    link-degree: "https://tu-sofia.bg/specialties/preview/776"
+    university: Technical University
+    link-university: "https://tu-sofia.bg/"
     time: September 2001 – July 2005
 
 experiences:
   - role: QA Automation Engineer Web & Mobile
     time: August 2018 - Present
-    company: Tide
+    company: Tide - Business Banking App
+    link: "https://www.tide.co/"
     details: |
       Collaborate with the development team and be responsible for building, testing, deploying and executing
       comprehensive solutions to ensure consistent delivery of high-quality software releases.
 
+        - Ensure bug-free software, seamless usability and smooth user experience
+        - Working closely with software developers and make sure all product requirements are met and bugs fixed
         - Design, develop and implement both manual and automated robust tests for the newly developed features
-        increasing test coverage and shorten the software development life cycle using Java, Selenium, Appium,
-        JUnit & Cucumber
+        increasing test coverage and shorten the software development life cycle
         - Optimise, investigate, debug, review and update the available integration, functional and regression manual
         and automated test suites
         - Analyse the results and logs of regular automated tests executions to ensure continuous improvement in
@@ -98,11 +115,11 @@ experiences:
 
   - role: Software Quality Assurance Engineer
     time: February 2017 - August 2018
-    company: ActivTrades
+    company: ActivTrades - Forex Trading Platform
+    link: "https://www.activtrades.com/en/"
     details: |
-      Conducting tests before product launches to ensure software
-      runs smoothly and meets client needs, while being cost-effective. Enjoy providing end-to-end solutions to
-      software quality problems.
+      Conducting tests before product launches to ensure software runs smoothly and meets company needs,
+      while being cost-effective. Enjoy providing end-to-end solutions to software quality problems.
 
         - Participate in the whole agile process of product development
         - Estimating, prioritising, planning and coordinating quality testing activities
@@ -119,7 +136,8 @@ experiences:
 
   - role: Sales Manager
     time: June 2008 - February 2017
-    company: DormaKaba
+    company: DormaKaba - Access Control Systems
+    link: "https://www.dormakaba.com/en"
 #      details: |
 #        Describe your role here lorem ipsum dolor sit amet, consectetuer
 #        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
