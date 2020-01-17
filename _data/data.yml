@@ -94,7 +94,27 @@ education:
 
 experiences:
   - role: QA Automation Engineer Web & Mobile
-    time: August 2018 - Present
+    time: June 2019 - Present
+    company: ec4u expert consulting ag - CRM consulting services
+    link: "https://www.ec4u.com/en/"
+    details: |
+      Collaborate with the development team and be responsible for building, testing, deploying and executing
+      comprehensive solutions to ensure consistent delivery of high-quality software releases.
+
+        - Participate actively in creation and maintenance of the test automation frameworks and test
+        suites
+        - Implement and maintain test pipelines as part of the overall CI/CD delivery process
+        - Establish and implement test automation standards and guidelines
+        - Develop and implement test prerequisites as test metadata and configurations
+        - Review and evaluate requirements documentation (business requirements, solution designs
+        and architecture diagrams)
+        - Troubleshoot and follow to closure complex issues
+        - Communicate and apply automation across various streams
+        - Follow and contribute to the company-wide test strategy, processes and the established TA
+        guidelines
+
+  - role: QA Automation Engineer Web & Mobile
+    time: August 2018 - June 2019
     company: Tide - Business Banking App
     link: "https://www.tide.co/"
     details: |
@@ -134,10 +154,10 @@ experiences:
         - Collaborate closely with Developers and Business Owners to ensure complete test coverage
         - Prepare and communicate test status and progress reports
 
-  - role: Sales Manager
-    time: June 2008 - February 2017
-    company: DormaKaba - Access Control Systems
-    link: "https://www.dormakaba.com/en"
+#  - role: Sales Manager
+#    time: June 2008 - February 2017
+#    company: DormaKaba - Access Control Systems
+#    link: "https://www.dormakaba.com/en"
 #      details: |
 #        Describe your role here lorem ipsum dolor sit amet, consectetuer
 #        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
@@ -154,6 +174,11 @@ projects:
     Web & Mobile Test Automation Frameworks built from scratch
 
   assignments:
+    - title: Web Test Automation Framework Selenium WebDriver with Java Framework
+      link: "https://github.com/IvoDimitrov/selenium-webdriver-java-framework"
+      tagline: "Java-based test automation framework built on top of the most popular solutions Selenium WebDriver,
+      TestNG and Maven. Test code organized using the Page Object Model."
+
     - title: Web Test Automation Framework
       link: "https://github.com/IvoDimitrov/tests-at-amazon"
       tagline: "Java-based test automation framework built on top of the most popular solutions Selenium WebDriver,
