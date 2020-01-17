@@ -94,24 +94,24 @@ education:
 
 experiences:
   - role: QA Automation Engineer Web & Mobile
-      time: June 2019 - Present
-      company: ec4u expert consulting ag - CRM consulting services
-      link: "https://www.ec4u.com/en/"
-      details: |
-        Collaborate with the development team and be responsible for building, testing, deploying and executing
-        comprehensive solutions to ensure consistent delivery of high-quality software releases.
+    time: June 2019 - Present
+    company: ec4u expert consulting ag - CRM consulting services
+    link: "https://www.ec4u.com/en/"
+    details: |
+      Collaborate with the development team and be responsible for building, testing, deploying and executing
+      comprehensive solutions to ensure consistent delivery of high-quality software releases.
 
-          - Participate actively in creation and maintenance of the test automation frameworks and test
-          suites
-          - Implement and maintain test pipelines as part of the overall CI/CD delivery process
-          - Establish and implement test automation standards and guidelines
-          - Develop and implement test prerequisites as test metadata and configurations
-          - Review and evaluate requirements documentation (business requirements, solution designs
-          and architecture diagrams)
-          - Troubleshoot and follow to closure complex issues
-          - Communicate and apply automation across various streams
-          - Follow and contribute to the company-wide test strategy, processes and the established TA
-          guidelines
+        - Participate actively in creation and maintenance of the test automation frameworks and test
+        suites
+        - Implement and maintain test pipelines as part of the overall CI/CD delivery process
+        - Establish and implement test automation standards and guidelines
+        - Develop and implement test prerequisites as test metadata and configurations
+        - Review and evaluate requirements documentation (business requirements, solution designs
+        and architecture diagrams)
+        - Troubleshoot and follow to closure complex issues
+        - Communicate and apply automation across various streams
+        - Follow and contribute to the company-wide test strategy, processes and the established TA
+        guidelines
 
   - role: QA Automation Engineer Web & Mobile
     time: August 2018 - June 2019
