@@ -96,7 +96,30 @@ education:
 
 experiences:
   - role: Senior Quality Assurance Automation Engineer
-    time: June 2019 - Present
+      time: September 2020 - Present
+      company: Receipt Bank - Pre-Accounting Platform
+      link: "https://www.receipt-bank.com/"
+      details: |
+        Building test automation systems from the ground up, which involves both software development for test code as
+        well as the infrastructure to run it in Continuous Integration.
+
+          - Collaborating with developers and product owners
+          - Contributing to planning and design
+          - Reviewing product code
+          - Formulating test scenarios
+          - Developing test automation frameworks
+          - Automating test scenarios using the frameworks
+          - Knowing and using design patterns where appropriate
+          - Setting up the infrastructure to run tests
+          - Running tests in CI/CD
+          - Running tests in parallel
+          - Running tests with the appropriate test data
+          - Setting up dashboards for reporting test results in real time
+          - Teaching others good quality and testing practices
+          - Developing tools to assist manual and exploratory testing
+
+  - role: Senior Quality Assurance Automation Engineer
+    time: June 2019 - September 2020
     company: ec4u expert consulting ag - CRM consulting services
     link: "https://www.ec4u.com/en/"
     details: |
@@ -213,7 +236,7 @@ skills:
     - name: TestNG
       level: 95%
 
-    - name: Cucumber-JVM
+    - name: Cucumber
       level: 95%
 
 footer: >
