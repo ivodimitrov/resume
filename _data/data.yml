@@ -9,7 +9,7 @@ sidebar:
   # Profile information
   name: Ivo Dimitrov
   tagline: QA Automation Engineer
-  avatar: profielPictureIvoDimitrov.jpg  #place a picture inside /assets/images/ folder and provide the name of the file below
+  avatar: profile_pic.png  #place a picture inside /assets/images/ folder and provide the name of the file below
 
   # Sidebar links
   email: ivopdimitrov@gmail.com
