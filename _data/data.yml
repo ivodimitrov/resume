@@ -96,27 +96,27 @@ education:
 
 experiences:
   - role: Senior Quality Assurance Automation Engineer
-      time: Sep 2020 - Present
-      company: Receipt Bank - Pre-Accounting Platform
-      link: "https://www.receipt-bank.com/"
-      details: |
-        Building test automation systems from the ground up, which involves both software development for test code as
-        well as the infrastructure to run it in Continuous Integration.
+    time: Sep 2020 - Present
+    company: Receipt Bank - Pre-Accounting Platform
+    link: "https://www.receipt-bank.com/"
+    details: |
+      Building test automation systems from the ground up, which involves both software development for test code as
+      well as the infrastructure to run it in Continuous Integration.
 
-          - Collaborating with developers and product owners
-          - Contributing to planning and design
-          - Reviewing product code
-          - Formulating test scenarios
-          - Developing test automation frameworks
-          - Automating test scenarios using the frameworks
-          - Knowing and using design patterns where appropriate
-          - Setting up the infrastructure to run tests
-          - Running tests in CI/CD
-          - Running tests in parallel
-          - Running tests with the appropriate test data
-          - Setting up dashboards for reporting test results in real time
-          - Teaching others good quality and testing practices
-          - Developing tools to assist manual and exploratory testing
+        - Collaborating with developers and product owners
+        - Contributing to planning and design
+        - Reviewing product code
+        - Formulating test scenarios
+        - Developing test automation frameworks
+        - Automating test scenarios using the frameworks
+        - Knowing and using design patterns where appropriate
+        - Setting up the infrastructure to run tests
+        - Running tests in CI/CD
+        - Running tests in parallel
+        - Running tests with the appropriate test data
+        - Setting up dashboards for reporting test results in real time
+        - Teaching others good quality and testing practices
+        - Developing tools to assist manual and exploratory testing
 
   - role: Senior Quality Assurance Automation Engineer
     time: June 2019 - Sep 2020
@@ -126,8 +126,7 @@ experiences:
       Responsible for all aspects of testing, from analysis of requirements to design, from implementation to
       defects management, both automated or manually if required.
 
-        - Participate actively in creation and maintenance of the test automation frameworks and test
-        suites
+        - Participate actively in creation and maintenance of the test automation frameworks and test suites
         - Implement and maintain test pipelines as part of the overall CI/CD delivery process
         - Establish and implement test automation standards and guidelines
         - Develop and implement test prerequisites as test metadata and configurations
@@ -135,8 +134,7 @@ experiences:
         and architecture diagrams)
         - Troubleshoot and follow to closure complex issues
         - Communicate and apply automation across various streams
-        - Follow and contribute to the company-wide test strategy, processes and the established TA
-        guidelines
+        - Follow and contribute to the company-wide test strategy, processes and the established TA guidelines
 
   - role: Quality Assurance Automation Engineer
     time: August 2017 - June 2019
