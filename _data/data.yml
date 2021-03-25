@@ -41,12 +41,12 @@ sidebar:
 career-profile:
   title: Career Profile
   summary: |
-    Test Automation University Profile 👉<a target="_blank" href="https://testautomationu.applitools.com/me.html#ivopdimitrov">TAU Profile</a><br />
-    You could find me in the list of Test Automation University TOP💯students 👉<a target="_blank" href="https://testautomationu.applitools.com/tau100.html">TAU Leaderboard of Top 100 Test Automation Experts</a><br />
+    Test Automation University Profile 👉 <a target="_blank" href="https://testautomationu.applitools.com/me.html#ivopdimitrov">TAU Profile</a><br />
+    You could find me in the list of Test Automation University TOP💯students 👉 <a target="_blank" href="https://testautomationu.applitools.com/tau100.html">TAU Leaderboard of Top 100 Test Automation Experts</a><br />
     I really enjoy picking software apart and seeing where I can find flaws and I am passionate about improving
     quality and shipping high-reliability products. I have worked with a range of different programming languages
     and automation frameworks and I am always looking for opportunities to work with something new. The things that
-    I currently have the most experience working with are Java, Selenium WebDriver, Appium, JUnit, TestNG,
+    I currently have the most experience working with are Java, Ruby, Selenium WebDriver, Appium, JUnit, TestNG, RSpec,
     Cucumber-JVM (BDD), Gherkin, Git and Jenkins.
 
 education:
@@ -97,8 +97,8 @@ education:
 experiences:
   - role: Senior Quality Assurance Automation Engineer
     time: Sep 2020 - Present
-    company: Receipt Bank - Pre-Accounting Platform
-    link: "https://www.receipt-bank.com/"
+    company: Dext - Pre-Accounting Platform
+    link: "https://dext.com/"
     details: |
       Building test automation systems from the ground up, which involves both software development for test code as
       well as the infrastructure to run it in Continuous Integration.
