@@ -22,7 +22,11 @@
             <div class="company">
 
                 <span class="company-title">
-                    <a target="_blank" href="{{ experience.link }}">{{ experience.company }}</a>
+                  {% if experience.link %}
+                  <a target="_blank" href="{{ experience.link }}">{{ experience.company }}</a>
+                  {% else %}
+                  {{ experience.company }}
+                  {% endif %}
                 </span>
 
             </div>
