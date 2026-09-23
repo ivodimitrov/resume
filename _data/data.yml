@@ -46,8 +46,7 @@ career-profile:
     I really enjoy picking software apart and seeing where I can find flaws and I am passionate about improving
     quality and shipping high-reliability products. I have worked with a range of different programming languages
     and automation frameworks and I am always looking for opportunities to work with something new. The things that
-    I currently have the most experience working with are Java, Ruby, Selenium WebDriver, Appium, JUnit, TestNG, RSpec,
-    Cucumber-JVM (BDD), Gherkin, Git and Jenkins.
+    I currently have the most experience working with are Java, REST Assured, Selenium WebDriver, Appium, JUnit, TestNG and Git.
 
 education:
   - degree: QA Automation Engineer Automated Testing Mobile Applications
@@ -96,7 +95,23 @@ education:
 
 experiences:
   - role: Senior Quality Assurance Automation Engineer
-    time: Sep 2020 - Present
+    time: Oct 2022 - Present
+    company: Nuvei
+    link: "https://www.nuvei.com/"
+    details: |
+      Designing, developing, and maintaining automated tests and frameworks for functional and API testing,
+      using Java and REST Assured.
+
+        - Participate in release testing activities and contribute to improving the release validation process
+        - Validate new product features, bug fixes, and improvements
+        - Design and implement automation solutions to reduce manual effort and improve team productivity
+        - Extending and supporting the existing test automation framework
+        - Reviewing requirements and design of system to be implemented
+        - Providing high-level technical guidance and mentoring to test engineers
+        - Investigating, identifying and following up on production issues
+
+  - role: Senior Quality Assurance Automation Engineer
+    time: Sep 2020 - Sep 2022
     company: Dext - Pre-Accounting Platform
     link: "https://dext.com/"
     details: |
@@ -191,12 +206,12 @@ projects:
     - title: Mobile Test Automation Framework for native, hybrid and web apps for iOS and Android
       link: "https://github.com/IvoDimitrov/mobile-testing"
       tagline: "Java-based test automation framework that integrates with tools such as Appium, JUnit, TestNG,
-          Cucumber (BDD), Maven and Gradle."
+          Maven and Gradle."
 
     - title: Web Test Automation Framework
       link: "https://github.com/IvoDimitrov/tests-at-amazon"
       tagline: "Java-based test automation framework built on top of the most popular solutions Selenium WebDriver,
-      JUnit, TestNG, Cucumber (BDD) and Maven."
+      JUnit, TestNG and Maven."
 
     - title: API Testing and validating REST services. REST Assured Java Framework and API tests
       link: "https://github.com/IvoDimitrov/rest-assured-java-framework"
@@ -220,22 +235,19 @@ skills:
 
   toolset:
     - name: Java
-      level: 78%
+      level: 75%
 
     - name: Selenium WebDriver
       level: 85%
 
-    - name: Appium
+    - name: REST Assured
       level: 85%
 
     - name: JUnit
-      level: 95%
+      level: 90%
 
     - name: TestNG
-      level: 95%
-
-    - name: Cucumber
-      level: 95%
+      level: 90%
 
 footer: >
   Designed with <i class="fas fa-heart"></i> by <a href="https://github.com/IvoDimitrov" target="_blank" rel="nofollow">Ivo Dimitrov</a>
