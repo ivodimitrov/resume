@@ -182,8 +182,9 @@ experiences:
         - Produce, run and analyse functional, regression tests
         - Create issue reports for the engineers to review and fix, providing extensive explanation for how to
         recreate bugs and where errors can be found
-        - Track bug fixes to determine if they are valid and complete, following up on each case and
-        communicating test status and progress
+        - Track bug fixes to determine if they are valid and complete, following up on each
+        case, collaborating with Developers and Business Owners, and communicating test
+        status and progress
 
 projects:
   title: Projects
