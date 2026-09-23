@@ -120,15 +120,10 @@ experiences:
 
         - Collaborating with developers and product owners
         - Contributing to planning and design
-        - Reviewing product code
-        - Formulating test scenarios
-        - Developing test automation frameworks
-        - Automating test scenarios using the frameworks
+        - Reviewing product code and formulating test scenarios
+        - Developing test automation frameworks and automating test scenarios using them
         - Knowing and using design patterns where appropriate
-        - Setting up the infrastructure to run tests
-        - Running tests in CI/CD
-        - Running tests in parallel
-        - Running tests with the appropriate test data
+        - Setting up the infrastructure to run tests in CI/CD, in parallel, and with the appropriate test data
         - Setting up dashboards for reporting test results in real time
         - Teaching others good quality and testing practices
         - Developing tools to assist manual and exploratory testing
@@ -136,7 +131,7 @@ experiences:
   - role: Senior Quality Assurance Automation Engineer
     time: June 2019 - Sep 2020
     company: ec4u expert consulting ag - CRM consulting services
-    #link: "https://www.ec4u.com/en/"
+    # link: "https://www.ec4u.com/en/"
     details: |
       Responsible for all aspects of testing, from analysis of requirements to design, from implementation to
       defects management, both automated or manually if required.
@@ -168,8 +163,7 @@ experiences:
         - Analyse the results and logs of regular automated tests executions to ensure continuous improvement in
         quality and efficiency
         - Track and report using Jira the life cycle of identified bugs, reproduce failures and investigate their
-        root causes. Verify bug fixes
-        - Provide comprehensive test reports
+        root causes and verify fixes
 
   - role: Quality Assurance Automation Engineer
     time: February 2016 - August 2017
@@ -188,9 +182,8 @@ experiences:
         - Produce, run and analyse functional, regression tests
         - Create issue reports for the engineers to review and fix, providing extensive explanation for how to
         recreate bugs and where errors can be found
-        - Track bug fixes to determine if they are valid and complete. Following up on each case
-        - Collaborate closely with Developers and Business Owners to ensure complete test coverage
-        - Prepare and communicate test status and progress reports
+        - Track bug fixes to determine if they are valid and complete, following up on each case and
+        communicating test status and progress
 
 projects:
   title: Projects
