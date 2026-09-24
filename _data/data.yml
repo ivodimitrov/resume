@@ -102,11 +102,15 @@ experiences:
       Designing, developing, and maintaining automated tests and frameworks for functional and API testing,
       using Java and REST Assured.
 
+        - Reviewing requirements and design of system to be implemented
+        - Designing and reviewing test cases and test scripts
+        - Defining test case execution priority and impact analysis
+        - Providing testing estimations for new projects
         - Participate in release testing activities and contribute to improving the release validation process
         - Validate new product features, bug fixes, and improvements
         - Design and implement automation solutions to reduce manual effort and improve team productivity
-        - Extending and supporting the existing test automation framework
-        - Reviewing requirements and design of system to be implemented
+        - Recommending, implementing, and working with test management, defect management, performance, and
+        automation tools
         - Providing high-level technical guidance and mentoring to test engineers
         - Investigating, identifying and following up on production issues
 
