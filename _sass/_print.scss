@@ -22,6 +22,19 @@
         width: 40%;
         -webkit-print-color-adjust: exact; 
     }
+      
+    .contact-list li {
+        margin-bottom: 10px;
+    }
+
+    .contact-list .stack-overflow a::after {
+        display: block;
+        max-width: 100%;
+        font-size: 8px;
+        line-height: 1.1;
+        word-break: break-all;
+        overflow-wrap: break-word;
+    }      
 
     .remove-container.container-block {
        display: none;
