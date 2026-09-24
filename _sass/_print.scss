@@ -23,15 +23,8 @@
         -webkit-print-color-adjust: exact; 
     }
 
-    .contact-list a::after {
-        content: attr(href);
-        display: block;
-        font-size: 8px;
-        line-height: 1.2;
-        max-width: 100%;
-        white-space: nowrap;
-        overflow: hidden;
-        text-overflow: ellipsis;
+    .contact-list a {
+        font-size: 9px;
     }
 
     .remove-container.container-block {
