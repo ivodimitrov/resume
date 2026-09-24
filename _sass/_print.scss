@@ -7,6 +7,16 @@
        font-size: 12pt;
     }
 
+    .wrapper::after {
+        content: "";
+        display: table;
+        clear: both;
+    }
+
+    .main-wrapper {
+        padding-right: 60px;
+    }
+
     img.avatar {
         filter: grayscale(1);
         -webkit-filter: greyscale(1);
@@ -21,11 +31,6 @@
         float: right;
         width: 40%;
         -webkit-print-color-adjust: exact; 
-    }
-
-    .contact-list .stack-overflow a::after {
-        word-break: break-all;
-        overflow-wrap: break-word;
     }
 
     .remove-container.container-block {
