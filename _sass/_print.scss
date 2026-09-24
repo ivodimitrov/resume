@@ -30,6 +30,8 @@
         position: static;
         float: right;
         width: 40%;
+        height: auto;
+        min-height: 0;
         -webkit-print-color-adjust: exact; 
     }
 
