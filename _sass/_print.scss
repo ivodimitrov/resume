@@ -30,7 +30,18 @@
         position: static;
         float: right;
         width: 40%;
+        height: auto;
+        min-height: 0;
         -webkit-print-color-adjust: exact; 
+    }
+
+    .contact-list .stack-overflow a::after {
+        display: inline-block;
+        max-width: 140px;
+        white-space: nowrap;
+        overflow: hidden;
+        text-overflow: ellipsis;
+        vertical-align: bottom;
     }
 
     .remove-container.container-block {
