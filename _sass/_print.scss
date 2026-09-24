@@ -21,16 +21,6 @@
         float: right;
         width: 40%;
         -webkit-print-color-adjust: exact; 
-
-        .contact-list a {
-            word-break: break-all;
-            overflow-wrap: break-word;
-        }
-
-        .contact-list a:after {
-            font-size: 9px;
-            line-height: 1.2;
-        }
     }
 
     .remove-container.container-block {
