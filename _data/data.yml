@@ -206,11 +206,6 @@ projects:
       tagline: "Java-based test automation framework that integrates with tools such as Appium, JUnit, TestNG,
           Maven and Gradle."
 
-    - title: Web Test Automation Framework with Cucumber (BDD)
-      link: "https://github.com/IvoDimitrov/selenium-webdriver-java-cucumber-practice"
-      tagline: "Java-based test automation framework built on top of Selenium WebDriver, JUnit, TestNG, Cucumber (BDD)
-      and Maven. A practice project using Gherkin syntax for behavior-driven test scenarios."
-
     - title: API Testing and validating REST services. REST Assured Java Framework and API tests
       link: "https://github.com/IvoDimitrov/rest-assured-java-framework"
       tagline: "Java-based API test automation framework that integrates with tools such as REST Assured, JUnit, and
