@@ -21,6 +21,11 @@
         float: right;
         width: 40%;
         -webkit-print-color-adjust: exact; 
+
+        .contact-list a {
+            word-break: break-all;
+            overflow-wrap: break-word;
+        }
     }
 
     .remove-container.container-block {
